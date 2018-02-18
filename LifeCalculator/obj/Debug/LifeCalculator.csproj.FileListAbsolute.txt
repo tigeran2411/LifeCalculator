@@ -1,0 +1,6 @@
+c:\users\tiger\source\repos\LifeCalculator\LifeCalculator\bin\Debug\LifeCalculator.exe.config
+c:\users\tiger\source\repos\LifeCalculator\LifeCalculator\bin\Debug\LifeCalculator.exe
+c:\users\tiger\source\repos\LifeCalculator\LifeCalculator\bin\Debug\LifeCalculator.pdb
+c:\users\tiger\source\repos\LifeCalculator\LifeCalculator\obj\Debug\LifeCalculator.csproj.CoreCompileInputs.cache
+c:\users\tiger\source\repos\LifeCalculator\LifeCalculator\obj\Debug\LifeCalculator.exe
+c:\users\tiger\source\repos\LifeCalculator\LifeCalculator\obj\Debug\LifeCalculator.pdb
